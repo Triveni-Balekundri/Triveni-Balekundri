@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Triveni Balekundri</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 <br>
-📫 How to reach me **balekundritriveni05@gmail.com**
+<p>📫 How to reach me: balekundritriveni05@gmail.com </p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
