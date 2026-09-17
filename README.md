@@ -1,12 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Triveni Balekundri</h1>
 <h3 align="center">Aspiring Software Developer</h3>
-
-
-
-
-- 📫 How to reach me **balekundritriveni05@gmail.com**
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<br>
+📫 How to reach me **balekundritriveni05@gmail.com**
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trivenibalekundri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trivenibalekundri" height="30" width="40" /></a>
