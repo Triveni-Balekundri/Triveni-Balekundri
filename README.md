@@ -1,31 +1,31 @@
 <br clear="both">
 
-<img data-importer="image" align="right" height="237" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif"  />
+<img data-importer="image" align="right" height="233" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif"  />
 
 ###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/trivenibalekundri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@theplaycircuit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/triveni_balekundri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
   </a>
   <a href="balekundritriveni05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<h3 data-importer="text" align="left">---------------------------------------------------------------------------------------------------------</h3>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
 
@@ -72,7 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
 
 
 <br>
