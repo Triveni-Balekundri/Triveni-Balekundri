@@ -28,7 +28,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Hi👋,<br> I'm Triveni Balekundri<br>Aspiring Software Developer</h3>
+<h3 data-importer="text" align="left"><br> I'm Triveni Balekundri<br>Aspiring Software Developer</h3>
 
 ###
 
