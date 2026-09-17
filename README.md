@@ -73,11 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triveni-balekundri&label=Profile%20views&color=0e75b6&style=flat" alt="triveni-balekundri" /> </p>
